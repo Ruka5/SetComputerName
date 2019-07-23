@@ -1,0 +1,2 @@
+cd /d "C:\Users\Lukas\documents\visual studio 2013\Projects\SetComputerName\SetComputerName" &msbuild "SetComputerStepByStep.csproj" /t:sdvViewer /p:configuration="Debug" /p:platform=Any CPU
+exit %errorlevel% 
